@@ -15,97 +15,42 @@ body {
     background-size: 100% 105%;
 }
 
-.homebutton {
+.homebutton, .kaartbutton, .ideebutton {
     background-color: #9f9fa0;
     position: absolute;
-    width: 75px;
-    left: 75px;
     top: 60px;
     height: 20px;
-    text-align: center;
     opacity: 60%;
 }
 
-.homebuttonactief {
+.homebuttonactief, .kaartbuttonactief, .ideebuttonactief {
     background-color: #187fa5;
     position: absolute;
+    top: 60px;
+    height: 20px;
+    opacity: 60%;
+}
+
+.homebuttontext, .kaartbuttontext, .ideebuttontext {
+    position: absolute;
+    top: 60px;
+    height: 20px;
+    text-align: center;
+}
+
+.homebutton, .homebuttonactief, .homebuttontext {
     width: 75px;
     left: 75px;
-    top: 60px;
-    height: 20px;
-    text-align: center;
-    opacity: 60%;
 }
 
-.kaartbutton {
-    background-color: #9f9fa0;
-    position: absolute;
-    width: 75px;
-    left: 150px;
-    top: 60px;
-    height: 20px;
-    text-align: center;
-    opacity: 60%;
-}
-
-.kaartbuttonactief {
-    background-color: #187fa5;
-    position: absolute;
-    width: 75px;
-    left: 150px;
-    top: 60px;
-    height: 20px;
-    text-align: center;
-    opacity: 60%;
-}
-
-.ideebutton {
-    background-color: #9f9fa0;
-    position: absolute;
+.kaartbutton, .kaartbuttonactief, .kaartbuttontext {
     width: 75px;
     left: 225px;
-    top: 60px;
-    height: 20px;
-    text-align: center;
-    opacity: 60%;
 }
 
-.ideebuttonactief {
-    background-color: #187fa5;
-    position: absolute;
-    width: 75px;
-    left: 225px;
-    top: 60px;
-    height: 20px;
-    text-align: center;
-    opacity: 60%;
-}
-
-.homebuttontext {
-    position: absolute;
-    width: 75px;
-    left: 75px;
-    top: 60px;
-    height: 20px;
-    text-align: center;
-}
-
-.kaartbuttontext {
-    position: absolute;
+.ideebutton, .ideebuttonactief, .ideebuttontext {
     width: 75px;
     left: 150px;
-    top: 60px;
-    height: 20px;
-    text-align: center;
-}
-
-.ideebuttontext {
-    position: absolute;
-    width: 75px;
-    left: 225px;
-    top: 60px;
-    height: 20px;
-    text-align: center;
 }
 
 .map {
