@@ -61,224 +61,122 @@ body {
     top: 100px;
 }
 
-.leeuwarden {
+.orb {
     position:absolute;
     width: 10px;
-    top: 159px;
-    left: 327px;
     height: 10px;
     background-color: darkblue;
     border-radius: 50%;
+}
+
+.leeuwarden {
+    top: 159px;
+    left: 327px;
 }
 
 .heerenveen {
-    position:absolute;
-    width: 10px;
     top: 200px;
     left: 340px;
-    height: 10px;
-    background-color: darkblue;
-    border-radius: 50%;
 }
 
 .groningen {
-    position:absolute;
-    width: 10px;
     top: 157px;
     left: 397px;
-    height: 10px;
-    background-color: darkblue;
-    border-radius: 50%;
 }
 
 .assen {
-    position:absolute;
-    width: 10px;
     top: 192px;
     left: 399px;
-    height: 10px;
-    background-color: darkblue;
-    border-radius: 50%;
 }
 
 .emmen {
-    position:absolute;
-    width: 10px;
     top: 229px;
     left: 430px;
-    height: 10px;
-    background-color: darkblue;
-    border-radius: 50%;
 }
 
 .denhelder {
-    position:absolute;
-    width: 10px;
     top: 200px;
     left: 229px;
-    height: 10px;
-    background-color: darkblue;
-    border-radius: 50%;
 }
 
 .zwolle {
-    position:absolute;
-    width: 10px;
     top: 275px;
     left: 357px;
-    height: 10px;
-    background-color: darkblue;
-    border-radius: 50%;
 }
 
 .lelystad {
-    position:absolute;
-    width: 10px;
     top: 277px;
     left: 296px;
-    height: 10px;
-    background-color: darkblue;
-    border-radius: 50%;
 }
 
 .almelo {
-    position:absolute;
-    width: 10px;
     top: 300px;
     left: 410px;
-    height: 10px;
-    background-color: darkblue;
-    border-radius: 50%;
 }
 
 .amsterdam {
-    position:absolute;
-    width: 10px;
     top: 299px;
     left: 241px;
-    height: 10px;
-    background-color: darkblue;
-    border-radius: 50%;
 }
 
 .alkmaar {
-    position:absolute;
-    width: 10px;
     top: 257px;
     left: 226px;
-    height: 10px;
-    background-color: darkblue;
-    border-radius: 50%;
 }
 
 .apeldoorn {
-    position:absolute;
-    width: 10px;
     top: 327px;
     left: 344px;
-    height: 10px;
-    background-color: darkblue;
-    border-radius: 50%;
 }
 
 .denhaag {
-    position:absolute;
-    width: 10px;
     top: 346px;
     left: 185px;
-    height: 10px;
-    background-color: darkblue;
-    border-radius: 50%;
 }
 
 .utrecht {
-    position:absolute;
-    width: 10px;
     top: 348px;
     left: 264px;
-    height: 10px;
-    background-color: darkblue;
-    border-radius: 50%;
 }
 
 .rotterdam {
-    position:absolute;
-    width: 10px;
     top: 374px;
     left: 202px;
-    height: 10px;
-    background-color: darkblue;
-    border-radius: 50%;
 }
 
 .shertogenbosch {
-    position:absolute;
-    width: 10px;
     top: 413px;
     left: 279px;
-    height: 10px;
-    background-color: darkblue;
-    border-radius: 50%;
 }
 
 .nijmegen {
-    position:absolute;
-    width: 10px;
     top: 388px;
     left: 335px;
-    height: 10px;
-    background-color: darkblue;
-    border-radius: 50%;
 }
 
 .middelburg {
-    position:absolute;
-    width: 10px;
     top: 443px;
     left: 115px;
-    height: 10px;
-    background-color: darkblue;
-    border-radius: 50%;
 }
 
 .maastricht {
-    position:absolute;
-    width: 10px;
     top: 554px;
     left: 319px;
-    height: 10px;
-    background-color: darkblue;
-    border-radius: 50%;
 }
 
 .venlo {
-    position:absolute;
-    width: 10px;
     top: 464px;
     left: 362px;
-    height: 10px;
-    background-color: darkblue;
-    border-radius: 50%;
 }
 
 .eindhoven {
-    position:absolute;
-    width: 10px;
     top: 455px;
     left: 294px;
-    height: 10px;
-    background-color: darkblue;
-    border-radius: 50%;
 }
 
 .breda {
-    position:absolute;
-    width: 10px;
     top: 432px;
     left: 227px;
-    height: 10px;
-    background-color: darkblue;
-    border-radius: 50%;
 }
 
 .localpage {
