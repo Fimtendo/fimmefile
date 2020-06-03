@@ -15,7 +15,7 @@ body {
     background-size: 100% 105%;
 }
 
-.homebutton, .kaartbutton, .ideebutton {
+.button {
     background-color: #9f9fa0;
     position: absolute;
     top: 60px;
@@ -23,7 +23,7 @@ body {
     opacity: 60%;
 }
 
-.homebuttonactief, .kaartbuttonactief, .ideebuttonactief {
+.actief {
     background-color: #187fa5;
     position: absolute;
     top: 60px;
@@ -31,24 +31,24 @@ body {
     opacity: 60%;
 }
 
-.homebuttontext, .kaartbuttontext, .ideebuttontext {
+.text {
     position: absolute;
     top: 60px;
     height: 20px;
     text-align: center;
 }
 
-.homebutton, .homebuttonactief, .homebuttontext {
+.home {
     width: 75px;
     left: 75px;
 }
 
-.kaartbutton, .kaartbuttonactief, .kaartbuttontext {
+.kaart {
     width: 75px;
     left: 225px;
 }
 
-.ideebutton, .ideebuttonactief, .ideebuttontext {
+.idee {
     width: 75px;
     left: 150px;
 }
